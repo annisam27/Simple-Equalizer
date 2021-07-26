@@ -1,0 +1,11 @@
+[PANDUAN MENGGUNAKAN ]
+
+[RUNNING]
+Berikut adalah cara untuk membuka file di matlab:
+1.Extract dalam 1 folder 
+2.Jalankan matlab
+3.Arahin recently folder ke folder dimana rar di extract.
+4.Jalanin folder equalizer1.m
+
+[EDIT]
+Kalo mau ngedit ui cukup buka file equalizer1.fig aja terus diedit.
